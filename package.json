@@ -1,0 +1,24 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cute-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giddykb/nodeproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giddykb/nodeproject/issues"
+  },
+  "homepage": "https://github.com/giddykb/nodeproject#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "content-disposition": "^0.5.2",
+    "express": "^4.15.3"
+  }
+}
